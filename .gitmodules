@@ -19,3 +19,6 @@
 [submodule "இசைமதிப்பெண்"]
 	path = இசைமதிப்பெண்
 	url = https://github.com/247i/MuseScore.git
+[submodule "கிபஊஇ"]
+	path = கிபஊஇ
+	url = https://github.com/247i/QMMP.git
