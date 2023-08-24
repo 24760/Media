@@ -22,3 +22,6 @@
 [submodule "கிபஊஇ"]
 	path = கிபஊஇ
 	url = https://github.com/247i/QMMP.git
+[submodule "வானொலிஉறுதி"]
+	path = வானொலிஉறுதி
+	url = https://github.com/247i/RadioSure.git
