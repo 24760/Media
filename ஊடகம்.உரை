@@ -1,6 +1,7 @@
 # இசைக்கருவிகள்
 
 - git submodule add https://github.com/247i/AIMP.git ஆஇஊஇ
+- git submodule add https://github.com/247i/AIMP32.git ஆஇஊஇ32
 - git submodule add https://github.com/247i/AIMP64.git ஆஇஊஇ64
 - git submodule add https://github.com/247i/AudaCity32.git ஆடாசிட்டி32
 - git submodule add https://github.com/247i/AudaCity64.git ஆடாசிட்டி64
