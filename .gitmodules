@@ -37,3 +37,6 @@
 [submodule "ஆஇஊஇ32"]
 	path = ஆஇஊஇ32
 	url = https://github.com/247i/AIMP32.git
+[submodule "ஆஇஊஇதோல்திருத்தி"]
+	path = ஆஇஊஇதோல்திருத்தி
+	url = https://github.com/247i/AIMPSE.git
