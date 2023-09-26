@@ -40,3 +40,6 @@
 [submodule "ஆஇஊஇதோல்திருத்தி"]
 	path = ஆஇஊஇதோல்திருத்தி
 	url = https://github.com/247i/AIMPSE.git
+[submodule "திஓமெ-பட்டறை"]
+	path = திஓமெ-பட்டறை
+	url = https://github.com/247i/OBS-Studio.git
