@@ -1,9 +1,3 @@
-[submodule "எம்பி3குறி32"]
-	path = எம்பி3குறி32
-	url = https://github.com/247i/Mp3Tag32.git
-[submodule "எம்பி3குறி64"]
-	path = எம்பி3குறி64
-	url = https://github.com/247i/Mp3Tag64.git
 [submodule "ஆஇஊஇ"]
 	path = ஆஇஊஇ
 	url = https://github.com/247i/AIMP.git
