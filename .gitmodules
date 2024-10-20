@@ -31,15 +31,6 @@
 [submodule "காஉப"]
 	path = காஉப
 	url = https://github.com/247i/VLC.git
-[submodule "ஆஇஊஇ64"]
-	path = ஆஇஊஇ64
-	url = https://github.com/247i/AIMP64.git
-[submodule "ஆஇஊஇ32"]
-	path = ஆஇஊஇ32
-	url = https://github.com/247i/AIMP32.git
-[submodule "ஆஇஊஇதோல்திருத்தி"]
-	path = ஆஇஊஇதோல்திருத்தி
-	url = https://github.com/247i/AIMPSE.git
 [submodule "திஓமெ-பட்டறை"]
 	path = திஓமெ-பட்டறை
 	url = https://github.com/247i/OBS-Studio.git
