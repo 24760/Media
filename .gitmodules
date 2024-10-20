@@ -25,3 +25,6 @@
 [submodule "ஆடாசிட்டி"]
 	path = ஆடாசிட்டி
 	url = https://github.com/247i/AudaCity.git
+[submodule "எம்பி3குறி"]
+	path = எம்பி3குறி
+	url = https://github.com/247i/Mp3Tag.git

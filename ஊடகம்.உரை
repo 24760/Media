@@ -3,8 +3,7 @@
 - git submodule add https://github.com/247i/AIMP.git ஆஇஊஇ
 - git submodule add https://github.com/247i/AudaCity.git ஆடாசிட்டி
 - git submodule add https://github.com/247i/CamStudio.git படபட்டறை
-- git submodule add https://github.com/247i/Mp3Tag32.git எம்பி3குறி32
-- git submodule add https://github.com/247i/Mp3Tag64.git எம்பி3குறி64
+- git submodule add https://github.com/247i/Mp3Tag.git எம்பி3குறி
 - git submodule add https://github.com/247i/MuseScore.git இசைமதிப்பெண்
 - git submodule add https://github.com/247i/OBS-Studio.git திஒமெ-பட்டறை
 - git submodule add https://github.com/247i/PotPlayer.git பானைஆட்டக்காரர்
