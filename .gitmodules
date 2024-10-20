@@ -1,15 +1,9 @@
-[submodule "ஆடாசிட்டி64"]
-	path = ஆடாசிட்டி64
-	url = https://github.com/247i/AudaCity64.git
 [submodule "எம்பி3குறி32"]
 	path = எம்பி3குறி32
 	url = https://github.com/247i/Mp3Tag32.git
 [submodule "எம்பி3குறி64"]
 	path = எம்பி3குறி64
 	url = https://github.com/247i/Mp3Tag64.git
-[submodule "ஆடாசிட்டி32"]
-	path = ஆடாசிட்டி32
-	url = https://github.com/247i/AudaCity32.git
 [submodule "ஆஇஊஇ"]
 	path = ஆஇஊஇ
 	url = https://github.com/247i/AIMP.git
@@ -34,3 +28,6 @@
 [submodule "திஓமெ-பட்டறை"]
 	path = திஓமெ-பட்டறை
 	url = https://github.com/247i/OBS-Studio.git
+[submodule "ஆடாசிட்டி"]
+	path = ஆடாசிட்டி
+	url = https://github.com/247i/AudaCity.git
